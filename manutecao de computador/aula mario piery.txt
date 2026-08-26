@@ -1,9 +1,0 @@
-1: Placa-Mãe ASUS TUF Gaming B550M-Plus, AMD AM4, mATX, DDR4, Preto - 90MB14A0-C1BAY0
-
-2: SSD Sata 500GB Crucial Bx500 - Ct500bx500SSD1 (Obs: a placa não possui slot para M.2
-
-3: Memória RAM Kingston Fury Beast, 16GB, 5600MT/s, DDR5, CL36, DIMM, Preto, EXPO - KF556C36BBE-16
-
-4: será realizada a troca do ssd M.2 de 256GB por  SSD WD Sn350 1TB M.2 Nvme PCie, Leitura 2400MB/s E Gravação 1850MB/s - Wds100t2g0c
- 
-e acrescentar uma memoria ram Memória RAM para Notebook Kingston Fury Impact, 16GB, 4800MHz, DDR5, CL38 - KF548S38IB-16

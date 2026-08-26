@@ -1,0 +1,16 @@
+try:
+    n1 = int(input("numero1: "))
+    n2 = int(input("numero2: "))
+    resultado = n1/n2
+    print(f"o resultado e: {resultado}")
+except ValueError:
+    print(f"digite apenas numero")
+except ZeroDivisionError:
+    print("nao e possivel dividir por zero")
+except Exception as erro:
+    print("ocorreu um erro: {erro}")
+else:
+    print("o programa foi executado corretamente")
+finally:
+    print("programa encerrado : D")
+    
